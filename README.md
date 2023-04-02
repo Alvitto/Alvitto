@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alvitto
 - 👀 I’m interested in anything related to programming
-- 🌱 I’m currently learning java on my college
+- 🌱 I’m currently learning java, javascript, pyhton on my college
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ig:@alvitto1 twitter:@alvittoD steam:alvittodevara(Mufasa)
 
